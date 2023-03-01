@@ -29,4 +29,4 @@ I shared a Loom Video URL to an uploaded video of myself, answering the followin
 
 | Version | Author                                   | Date       |
 | ------- | ---------------------------------------- | ---------- |
-| 0.0.1   | Nisha Govender <nishagovender@gmail.com> | 01/03/2023 |
+| 0.0.1   | Nisha Govender <nisha.govender@gmail.com> | 01/03/2023 |
